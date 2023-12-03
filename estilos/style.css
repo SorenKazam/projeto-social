@@ -10,6 +10,7 @@ html, body {
     height: 100vh;
     width: 100vw;
     background-color: black;
+    overflow-y: auto;
 }
 
 body {
@@ -40,4 +41,32 @@ iframe#tela {
     width: 269px;
     height: 473px;
     border-radius: 2px;
+}
+
+section#redes-sociais {
+    text-align: right;
+}
+
+section#redes-sociais > a > img {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 9px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    transition: 0.2s;
+}
+
+section#redes-sociais > a > img:hover {
+    border: 2px solid rgba(255, 255, 255, 0.507);
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+    transition: 0.2s;
+}
+
+section#redes-sociais > a > img:active {
+    border: 2px solid white;
+    transition: 0.2s;
 }
