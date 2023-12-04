@@ -4,5 +4,4 @@
 <br>
 <h2>Overview do projeto</h2>
 <p>Link: <a href="https://sorenkazam.github.io/projeto-social/" target="_blank">Projeto de Redes Sociais</a></p>
-<img src="https://github.com/SorenKazam/projeto-social/assets/46906203/8fd8e293-227c-466e-bb0f-641e7822c614">
-<p></p>
+<img src="https://github.com/SorenKazam/projeto-social/assets/46906203/fad8105a-0fd8-4408-870b-8c2b9ffa9032">
